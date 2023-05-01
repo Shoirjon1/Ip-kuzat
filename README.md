@@ -17,9 +17,16 @@ $ ```pip install webbrowser```
 $ ```pip install pyfiglet```
 
 $ ```pip install termcolor```
- 
+
+  
 Buyuruqlarni termuxga kiriting 
 Barcha kerakli kutubxonalarni o'rnatib bo'lgach skriptni ishga tushurishingiz mumkun
 
+  $  ```git clone https://github.com/Shoirjon1/Ip-kuzat.git```
+
+  $  ```cd /Ip-kuzat```
+
+  $  ```python ipkuzat.py```
+  
 Muhokama uchun telegram guruximizga tashrif buyuring
 Gurux[ https://t.me/Shoirjon_No1_1](url)
